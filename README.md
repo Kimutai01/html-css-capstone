@@ -19,7 +19,7 @@ A simple website for a technology global summit
 
 ## Video presentation
 
-[Click here to see the presentation]()
+[Click here to see the presentation](https://www.loom.com/share/03ec5e0d08784615b6e2abdb97ce344e)
 
 
 ## Getting Started
