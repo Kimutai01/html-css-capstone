@@ -15,7 +15,7 @@ A simple website for a technology global summit
 
 ## Live Demo
 
-[Live Demo Link]()
+[Live Demo Link](https://kimutai01.github.io/html-css-capstone/)
 
 ## Video presentation
 
