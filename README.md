@@ -1,56 +1,41 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Global technology summit
 
-> Description the project.
+> The webpage about the fifa world cup that will be in qatar
+
+![screenshot](all.png)
+![screenshot](screenshot.png)
 
 
+A simple website for a technology global summit
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+- HTML/CSS/JavaScript
 
-## Live Demo (if available)
+## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://kimutai01.github.io/html-css-capstone/)
+
+## Video presentation
+
+[Click here to see the presentation](https://www.loom.com/share/03ec5e0d08784615b6e2abdb97ce344e)
 
 
 ## Getting Started
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
-
+### To see the live demo please click an the above link, to launch the project locally please follow the next steps:
 
 To get a local copy up and running follow these simple example steps.
-
-### Prerequisites
-
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
 
 ## Authors
 
 👤 **Author1**
 
-- GitHub: [@githubhandle](https://github.com/githubhandle)
+- GitHub: [@GitHub](https://github.com/Kimutai01)
 - Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
+- LinkedIn: [@LinkedIn](https://www.linkedin.com/in/kimutai-kiprotich-1b5045216/)
 
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
 
 ## 🤝 Contributing
 
@@ -64,10 +49,4 @@ Give a ⭐️ if you like this project!
 
 ## Acknowledgments
 
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+- Design by: [Cindy Shin](https://www.behance.net/adagio07) (the author of the original design)
